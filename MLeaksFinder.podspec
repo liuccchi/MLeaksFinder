@@ -25,7 +25,7 @@ Pod::Spec.new do |s|
   # s.screenshots     = "www.example.com/screenshots_1", "www.example.com/screenshots_2"
   s.license          = 'MIT'
   s.author           = { "liuccchi" => "liuccchi@163.com" }
-  s.source           = { :git => "https://github.com/liuccchi/MLeaksFinder.git", :tag => s.version }
+  s.source           = { :git => "git@codeup.aliyun.com:64802395702c0cacad997dc6/iOS-Projects/MLeaksFinder.git", :tag => s.version }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.ios.deployment_target = '6.0'
